@@ -1,2 +1,3 @@
 # prestashop-scraper
-Get all Prestashop product photos
+
+A quick and dirty script to download all product photos from a store
